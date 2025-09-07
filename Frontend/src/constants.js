@@ -173,8 +173,8 @@ export const SkillsInfo = [
     img: iiitranchi_logo, // Replace with actual logo import or path
     school: "IIIT Ranchi",
     date: "2023 - 2027",
-    grade: "8.93 CGPA (till 3rd semester)",
-    desc: "Currently pursuing my Bachelor of Technology (B.Tech) in Computer Science and Engineering at IIIT Ranchi. So far, I've completed three semesters with a strong academic record. I am gaining in-depth knowledge in core areas like Data Structures, Algorithms, Operating Systems, Computer Networks, and Web Development. Alongside academics, I actively participate in hackathons, coding contests, and technical workshops to enhance my practical skills.",
+    grade: "8.97 CGPA (till 4th semester)",
+    desc: "Currently pursuing my Bachelor of Technology (B.Tech) in Computer Science and Engineering at IIIT Ranchi. So far, I've completed four semesters with a strong academic record. I am gaining in-depth knowledge in core areas like Data Structures, Algorithms, Operating Systems, Computer Networks, and Web Development. Alongside academics, I actively participate in hackathons, coding contests, and technical workshops to enhance my practical skills.",
     degree: "Bachelor of Technology - B.Tech (Computer Science and Engineering)",
   },
   {
