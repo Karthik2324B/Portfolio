@@ -32,7 +32,7 @@ const About = () => {
                         />
                     </div>
                     <br />
-                    <p className='text-sm md:text-md text-justify'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui nobis modi dolor pariatur porro eveniet, quaerat impedit eius atque explicabo iusto doloribus deserunt fugiat provident numquam omnis placeat rem pariatur ipsa ab odio, aspernatur atque libero possimus! Cumque, in veritatis?</p>
+                    <p className='text-sm md:text-md text-justify'>I am a MERN stack developer with hands-on experience in building full-stack projects, ranging from real-time applications to web platforms. Passionate about problem-solving and web development, I enjoy exploring new technologies and continuously building projects to enhance my skills and create impactful solutions.</p>
                     <br />
                     {/* social media icons */}
                     <div className='flex justify-between flex-col md:flex-row space-y-6 md:space-y-0 items-center'>
